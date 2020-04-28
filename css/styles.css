@@ -1,0 +1,149 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+#title {
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+.container-fluid {
+  padding: 3% 15% 10%;
+}
+
+#y{
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 900;
+  font-size: 4.0rem;
+  line-height: 1.5;
+}
+
+#add {
+  padding-bottom: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-family: 'Montserrat-Light', sans-serif;
+  font-size: 1.2rem;
+}
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+.title-image {
+  width: 40%;
+  transform: rotate(25deg);
+  position: absolute;
+  right: 50%;
+}
+#features{
+  padding: 7% 15%;
+  background-color: #fff;
+  position: relative;
+}
+.feature-box{
+  text-align: center;
+}
+h3{
+  font-family: 'Roboto', sans-serif;
+}
+p{
+  color: #8f8f8f;
+  font-weight: bold;
+}
+.icon{
+  color: #ef8172;
+  margin: 1rem;
+}
+.icon:hover {
+  color: #ff4c68;
+}
+#testimonials{
+  text-align: center;
+  background-color: #ef9172;
+  color: #584153;
+}
+h2{
+  font-family: 'Roboto', sans-serif;
+  padding: 2% 0;
+}
+#size{
+  font-size: 3rem;
+  line-height: 1.5;
+}
+em{
+  color: #f1e9e3;
+  font-size: 1rem;
+  font-weight: bold;
+}
+.testimonial-image{
+  width: 15%;
+  border-radius: 100%;
+  margin: 20px;
+}
+#press{
+  background-color: #ef9172;
+  text-align: center;
+  padding-bottom: 5%;
+}
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+#pricing{
+  padding: 100px;
+  text-align: center;
+  background-color: #f5cac3;
+}
+.pricing-column{
+  padding: 2% 2%;
+}
+.d{
+  font-family: 'Fredoka One', cursive;
+  font-weight: 900;
+}
+@media (max-width:1078px){
+  #title{
+    text-align: center;
+  }
+  .title-image{
+    position: static;
+    transform: rotate(0);
+  }
+}
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+  color: #f0f0f0;
+  padding: 7% 15%;
+}
+.design{
+  font-family: 'Montserrat-Black', sans-serif;
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-style: italic;
+}
+#footer{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #CECCCC;
+}
+#des{
+  padding: 0.5px 0.25px;
+}
